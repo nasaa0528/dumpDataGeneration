@@ -5,6 +5,7 @@ Public Sub highlightNegative()
     Dim myRange As Range
     Dim cell As Range
     ' criteria - g uur toogoor solisnoor todorhoi toonoos baga toog haih bolomjtoi 
+    Dim criteria As Integer
     criteria = 0
     
     Set myRange = Selection
